@@ -1,0 +1,13 @@
+E:\3 курс\практика\5 день\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.exe
+E:\3 курс\практика\5 день\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.deps.json
+E:\3 курс\практика\5 день\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.json
+E:\3 курс\практика\5 день\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.dev.json
+E:\3 курс\практика\5 день\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.dll
+E:\3 курс\практика\5 день\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.pdb
+E:\3 курс\практика\5 день\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csprojAssemblyReference.cache
+E:\3 курс\практика\5 день\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfoInputs.cache
+E:\3 курс\практика\5 день\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfo.cs
+E:\3 курс\практика\5 день\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csproj.CoreCompileInputs.cache
+E:\3 курс\практика\5 день\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.dll
+E:\3 курс\практика\5 день\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.pdb
+E:\3 курс\практика\5 день\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.genruntimeconfig.cache
